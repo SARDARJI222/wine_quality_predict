@@ -32,5 +32,5 @@ Ensure you have the following dependencies installed before running the applicat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/wine-quality-prediction-app.git
-   cd wine-quality-prediction-app
+   git clone https://github.com/SARDARJI222/wine_quality_predict.git
+   cd wine_quality_predict
