@@ -9,6 +9,7 @@ This Flask web application predicts the quality of wine based on nine factors us
 ![Demo](./demo.png)
 
 
+![Predict](./predict.png)
 ## Features
 
 - **RandomForestClassifier Model:** The app utilizes a machine learning model built with the RandomForestClassifier algorithm to predict wine quality.
