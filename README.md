@@ -6,7 +6,8 @@ This Flask web application predicts the quality of wine based on nine factors us
 
 ##Prediction
 <img src="https://github.com/SARDARJI222/wine_quality_predict/blob/master/demo.png">
-![Demo](https://raw.githubusercontent.com/SARDARJI222/wine_quality_predict/master/demo.png)
+![Demo](./demo.png)
+
 
 ## Features
 
